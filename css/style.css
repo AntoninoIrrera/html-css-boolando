@@ -42,6 +42,7 @@ a{
 
 .img-vestiti{
     width: 32%;
+    margin-right: 0.5rem;
 }
 
 .sezione{
@@ -64,9 +65,7 @@ a{
     display: inline;
 }
 
-.margine-destra{
-    margin-right: 0.5rem;
-}
+
 
 
 footer{
@@ -84,4 +83,49 @@ footer{
 
 .bold{
     font-weight: bold;
+}
+
+.cuore{
+
+    position: absolute;
+    right: 0.5rem;
+    bottom: 20rem;
+    background-color: white;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.sconto{
+
+    position: absolute;
+    left: 0;
+    bottom: 1.5rem;
+    background-color: red;
+    color: white;
+    padding: 0.3rem;
+    font-size: 0.8rem;
+}
+
+.sostenibilità{
+
+    padding: 0.3rem;
+    color: white;
+    position: absolute;
+    bottom: 1.5rem;
+    left: 2.5rem;
+    background: green;
+    font-size: 0.8rem;
+
+}
+
+.sostenibilità-solo {
+
+    padding: 0.3rem;
+    color: white;
+    position: absolute;
+    bottom: 1.5rem;
+    left: 0;
+    background: green;
+    font-size: 0.8rem;
+
 }
