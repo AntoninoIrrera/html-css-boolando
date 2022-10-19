@@ -3,3 +3,29 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+header{
+    background-color: #ff6900;
+    height: 4.5rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    width: 20%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-right: 0.5rem;
+    font-weight: bold;
+}
+
+.icone{
+    color: white;
+    padding-right: 0.5rem;
+}
