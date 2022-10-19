@@ -26,7 +26,7 @@ header{
     width: 20%;
 }
 
-a{
+.menu{
     text-decoration: none;
     color: white;
     padding-right: 0.5rem;
@@ -68,9 +68,7 @@ a{
 
 
 
-footer{
-    background-color: #1a1a1a;
-}
+
 
 .colore-red{
     color: red;
@@ -128,4 +126,39 @@ footer{
     background: green;
     font-size: 0.8rem;
 
+}
+
+
+footer {
+    color: white;
+    background-color: #1a1a1a;
+    height: 5.5rem;
+}
+
+.flex-down{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.finale{
+    padding-top: 1rem;
+}
+
+.finale2{
+    margin-top: 0.8rem;
+}
+
+.icone-footer{
+
+    width: 1rem;
+    background-color: white;
+    margin-left: 0.5rem;
+}
+
+.info{
+    text-decoration: none;
+    color: white;
+    padding-right: 0.5rem;
+    font-size: 0.8rem;
 }
