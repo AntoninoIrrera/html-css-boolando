@@ -162,3 +162,44 @@ footer {
     padding-right: 0.5rem;
     font-size: 0.8rem;
 }
+
+
+span.cuore:hover{
+    color: red;
+}
+
+div.p-relative:hover img.uno{
+
+    content: url(../img/1b.webp);
+
+}
+
+div.p-relative:hover img.due{
+
+    content: url(../img/2b.webp);
+
+}
+
+div.p-relative:hover img.tre{
+
+    content: url(../img/3b.webp);
+
+}
+
+div.p-relative:hover img.quattro {
+
+    content: url(../img/4b.webp);
+
+}
+
+div.p-relative:hover img.cinque {
+
+    content: url(../img/5b.webp);
+
+}
+
+div.p-relative:hover img.sei {
+
+    content: url(../img/6b.webp);
+
+}
