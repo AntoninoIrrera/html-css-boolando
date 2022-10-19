@@ -7,11 +7,19 @@
 
 header{
     background-color: #ff6900;
-    height: 4.5rem;
+    height: 4rem;
+}
+
+.flex{
     display: flex;
-    text-align: center;
     align-items: center;
+    height: 4rem;
     justify-content: center;
+}
+
+.conteiner{
+    width: 800px;
+    margin: 0 auto;
 }
 
 .logo{
@@ -28,4 +36,18 @@ a{
 .icone{
     color: white;
     padding-right: 0.5rem;
+}
+
+.centrale{
+    margin: 0 0.5rem;
+}
+
+.img-vestiti{
+    display: inline-block;
+    width: 32%;
+}
+
+.prima-sezione{
+    text-align: center;
+    margin-top: 3rem;
 }
