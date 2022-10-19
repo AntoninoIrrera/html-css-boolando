@@ -38,16 +38,50 @@ a{
     padding-right: 0.5rem;
 }
 
-.centrale{
-    margin: 0 0.5rem;
-}
+
 
 .img-vestiti{
-    display: inline-block;
     width: 32%;
 }
 
-.prima-sezione{
+.sezione{
     text-align: center;
-    margin-top: 3rem;
+    /* margin-top: 5rem; */
+    /* margin-bottom: 5rem; */
+    margin: 5rem auto;
+}
+
+.inline-block{
+    position: absolute;
+    left: 0;
+    top: 100%;
+    text-align: left;
+}
+
+
+.p-relative{
+    position: relative;
+    display: inline;
+}
+
+.margine-destra{
+    margin-right: 0.5rem;
+}
+
+
+footer{
+    background-color: #1a1a1a;
+}
+
+.colore-red{
+    color: red;
+
+}
+
+.linea{
+    text-decoration: line-through;
+}
+
+.bold{
+    font-weight: bold;
 }
