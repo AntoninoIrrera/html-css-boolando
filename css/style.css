@@ -10,6 +10,16 @@ header{
     height: 4rem;
 }
 
+.fixed{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+main{
+    padding-top: 20px;
+}
+
 .flex{
     display: flex;
     align-items: center;
